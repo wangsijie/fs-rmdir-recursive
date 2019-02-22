@@ -1,0 +1,25 @@
+{
+  "name": "fs-rmdir-recursive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangsijie/fs-rmdir-recursive.git"
+  },
+  "keywords": [
+    "fs",
+    "rmdir",
+    "recursive",
+    "unlink"
+  ],
+  "author": "i@sijie.wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangsijie/fs-rmdir-recursive/issues"
+  },
+  "homepage": "https://github.com/wangsijie/fs-rmdir-recursive#readme"
+}
